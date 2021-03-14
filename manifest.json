@@ -1,0 +1,20 @@
+{
+    "name": "Budget pwa example",
+    "short_name": "Budget pwa example",
+    "start_url": ".",
+    "background_color": "#ffffff",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "img/1211547.png",
+            "sizes": "192*192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/1211547.png",
+            "sizes": "512*512",
+            "type": "image/png"
+        }
+    ]
+}
